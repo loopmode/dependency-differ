@@ -2,6 +2,7 @@
   "name": "dependency-differ",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://loopmode.github.io/dependency-differ",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && mv build docs",
